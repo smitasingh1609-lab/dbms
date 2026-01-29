@@ -42,43 +42,7 @@ ORA-01735: invalid ALTER TABLE option
 
 SQL> DROP TABLE course;
 
-Table dropped.
-
-SQL> INSERT INTO Studentsm VALUES
-  2  (101, 'Smita', 'CSE', 20, '9876543210', 'Delhi', 3),
-  3  (102, 'Asha', 'ECE', 22, '9123456780', 'Mumbai', 5),
-  4  (103, 'Aditya', 'CSE', 21, '9988776655', 'Pune', 4),
-  5  (104, 'Priya', 'ME', 19, '9090909090', 'Delhi', 2),
-  6  (105, 'Rohit', 'CE', 23, '8899776655', 'Kolkata', 6);
-(101, 'Smita', 'CSE', 20, '9876543210', 'Delhi', 3),
-                                                   *
-ERROR at line 2:
-ORA-00933: SQL command not properly ended
-
-
-SQL>  INSERT INTO Studentsm VALUES
-  2  (101, 'Smita', 'EEE', 20, '9876543210', 'Delhi', 3),
-  3  (102, 'Asha', 'ECE', 22, '9123456780', 'Mumbai', 5),
-  4   (103, 'Aditya', 'CSE', 21, '9988776655', 'Pune', 4),
-  5  (104, 'Priya', 'ME', 19, '9090909090', 'Delhi', 2),
-  6   (105, 'Rohit', 'CE', 23, '8899776655', 'Kolkata', 6);
-(101, 'Smita', 'EEE', 20, '9876543210', 'Delhi', 3),
-                                                   *
-ERROR at line 2:
-ORA-00933: SQL command not properly ended
-
-
-SQL>  INSERT INTO Studentsm VALUES
-  2   (101, 'Rahul', 'CSE', 20, '9876543210', 'Delhi', 3),
-  3  (102, 'Aman', 'ECE', 22, '9123456780', 'Mumbai', 5),
-  4  (103, 'Neha', 'CSE', 21, '9988776655', 'Pune', 4),
-  5  (104, 'Priya', 'ME', 19, '9090909090', 'Delhi', 2),
-  6  (105, 'Rohit', 'CE', 23, '8899776655', 'Kolkata', 6);
- (101, 'Rahul', 'CSE', 20, '9876543210', 'Delhi', 3),
-                                                    *
-ERROR at line 2:
-ORA-00933: SQL command not properly ended
-
+Table dropped
 
 SQL> INSERT INTO Studentsm VALUES(101, 'Smita', 'CSE', 20, '9876543210', 'Delhi', 3);
 
@@ -241,4 +205,5 @@ SQL> DELETE FROM Studentsm;
 
 4 rows deleted.
 
-SQL>
+
+
