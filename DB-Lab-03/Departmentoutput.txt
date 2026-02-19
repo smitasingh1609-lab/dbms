@@ -1,0 +1,36 @@
+SELECT *FROM Department;
+
+DEPARTMENT_ID DEPARTMENT_NAME
+------------- --------------------------------------------------
+OFFICE_LOCATION
+--------------------------------------------------
+          101 Civil Engineering
+Block A
+
+          102 Mechanical Engineering
+Block B
+
+          105 Computer Science and Engineering
+Block C
+
+
+DEPARTMENT_ID DEPARTMENT_NAME
+------------- --------------------------------------------------
+OFFICE_LOCATION
+--------------------------------------------------
+          110 Electrical and Electronics Engineering
+Block D
+
+          118 3D Animation and Graphics
+Block E
+
+          119 Civil Engineering with Computer Application
+Block F
+
+
+DEPARTMENT_ID DEPARTMENT_NAME
+------------- --------------------------------------------------
+OFFICE_LOCATION
+--------------------------------------------------
+          157 Computer Science and Engineering (AIML)
+Block G
