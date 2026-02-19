@@ -1,0 +1,365 @@
+SELECT *FROM student;
+
+STUDENT_ID NAME                                               DATE_OF_B G
+---------- -------------------------------------------------- --------- -
+CONTACT_NUMBER  DEPARTMENT_ID
+--------------- -------------
+2.3105E+10 Shrishty Priya                                     18-MAR-04 F
+8123456701                105
+
+2.3105E+10 Piyush Kumar                                       07-DEC-03 M
+8234567812                105
+
+2.3105E+10 Nikhil Singh                                       25-JAN-04 M
+8345678923                105
+
+
+STUDENT_ID NAME                                               DATE_OF_B G
+---------- -------------------------------------------------- --------- -
+CONTACT_NUMBER  DEPARTMENT_ID
+--------------- -------------
+2.3105E+10 Ranvijay Kumar                                     14-OCT-03 M
+8456789034                105
+
+2.3105E+10 Udit Kr. Pal                                       09-MAY-04 M
+8567890145                105
+
+2.3105E+10 Amarjeet Kumar                                     21-AUG-03 M
+8678901256                105
+
+
+STUDENT_ID NAME                                               DATE_OF_B G
+---------- -------------------------------------------------- --------- -
+CONTACT_NUMBER  DEPARTMENT_ID
+--------------- -------------
+2.3105E+10 Md. Altaf Alam                                     02-FEB-04 M
+8789012367                105
+
+2.3105E+10 Asha Kumari                                        11-JUN-04 F
+8890123478                105
+
+2.3105E+10 Prince Kumar                                       29-NOV-03 M
+8901234589                105
+
+
+STUDENT_ID NAME                                               DATE_OF_B G
+---------- -------------------------------------------------- --------- -
+CONTACT_NUMBER  DEPARTMENT_ID
+--------------- -------------
+2.3105E+10 Ananya Kumari                                      17-APR-04 F
+9012345690                105
+
+2.3105E+10 Malti Kumari                                       17-SEP-04 F
+9012345610                105
+
+2.3105E+10 Komal Kumari                                       08-SEP-05 F
+9012345611                105
+
+
+STUDENT_ID NAME                                               DATE_OF_B G
+---------- -------------------------------------------------- --------- -
+CONTACT_NUMBER  DEPARTMENT_ID
+--------------- -------------
+2.3105E+10 Anand sagar                                        09-JUN-05 M
+9012345612                105
+
+2.3105E+10 Nehanshu shekhar                                   04-JUN-03 M
+9012345613                105
+
+2.3105E+10 Rahul kumar                                        04-JUN-03 M
+9012345641                105
+
+
+STUDENT_ID NAME                                               DATE_OF_B G
+---------- -------------------------------------------------- --------- -
+CONTACT_NUMBER  DEPARTMENT_ID
+--------------- -------------
+2.3105E+10 Alok kumar                                         04-JUN-03 M
+9012345631                105
+
+2.3105E+10 Kajal kumari                                       05-SEP-03 F
+9012345632                105
+
+2.3105E+10 Ashu jha                                           25-SEP-02 M
+9012345632                105
+
+
+STUDENT_ID NAME                                               DATE_OF_B G
+---------- -------------------------------------------------- --------- -
+CONTACT_NUMBER  DEPARTMENT_ID
+--------------- -------------
+2.3105E+10 Smita kumari                                       16-SEP-03 F
+9012345633                105
+
+2.3157E+10 Simran Kumari                                      12-MAR-04 F
+9126700011                157
+
+2.3157E+10 Harshit Kumar                                      05-NOV-03 M
+9126700232                157
+
+
+STUDENT_ID NAME                                               DATE_OF_B G
+---------- -------------------------------------------------- --------- -
+CONTACT_NUMBER  DEPARTMENT_ID
+--------------- -------------
+2.3157E+10 Suraj Kumar                                        18-JAN-04 M
+9126700033                157
+
+2.3157E+10 Priya Kumari                                       09-MAY-04 F
+9126700044                157
+
+2.3157E+10 Shalini Shreya                                     27-SEP-03 F
+9126700055                157
+
+
+STUDENT_ID NAME                                               DATE_OF_B G
+---------- -------------------------------------------------- --------- -
+CONTACT_NUMBER  DEPARTMENT_ID
+--------------- -------------
+2.3157E+10 Aditya Kashyap                                     14-FEB-04 M
+9126700066                157
+
+2.3157E+10 Sujeet Kumar                                       03-DEC-03 M
+9126700077                157
+
+2.3157E+10 Nandani Kumari                                     21-APR-04 F
+9126703278                157
+
+
+STUDENT_ID NAME                                               DATE_OF_B G
+---------- -------------------------------------------------- --------- -
+CONTACT_NUMBER  DEPARTMENT_ID
+--------------- -------------
+2.3157E+10 Rajiv jha                                          16-OCT-03 M
+9126700099                157
+
+2.3157E+10 Prince Kumar                                       08-JUN-04 M
+9126700100                157
+
+2.3119E+10 Manish Kumar                                       15-SEP-03 M
+9125600011                119
+
+
+STUDENT_ID NAME                                               DATE_OF_B G
+---------- -------------------------------------------------- --------- -
+CONTACT_NUMBER  DEPARTMENT_ID
+--------------- -------------
+2.3119E+10 Deepshika singh                                    29-JAN-03 F
+9125600067                119
+
+2.3119E+10 Jyoti Kumari                                       03-DEC-03 F
+9125612688                119
+
+2.3119E+10 Laxmi Kumari                                       18-MAY-04 F
+9125600044                119
+
+
+STUDENT_ID NAME                                               DATE_OF_B G
+---------- -------------------------------------------------- --------- -
+CONTACT_NUMBER  DEPARTMENT_ID
+--------------- -------------
+2.3119E+10 Anisha Kumari                                      27-MAR-04 F
+9125600055                119
+
+2.3119E+10 Monalisha                                          11-OCT-03 F
+9125600066                119
+
+2.3119E+10 Sanskar darsheel                                   06-FEB-04 M
+9125613277                119
+
+
+STUDENT_ID NAME                                               DATE_OF_B G
+---------- -------------------------------------------------- --------- -
+CONTACT_NUMBER  DEPARTMENT_ID
+--------------- -------------
+2.3119E+10 Suprit Kumar                                       29-AUG-03 M
+9125600088                119
+
+2.3119E+10 Keshri nandan                                      23-MAY-03 M
+9125600099                119
+
+2.3119E+10 Amit ananad                                        09-APR-04 M
+9125600100                119
+
+
+STUDENT_ID NAME                                               DATE_OF_B G
+---------- -------------------------------------------------- --------- -
+CONTACT_NUMBER  DEPARTMENT_ID
+--------------- -------------
+2.3118E+10 Sonu nigam                                         12-JAN-04 M
+9123400011                118
+
+2.3118E+10 Himanshu Kumar                                     25-NOV-03 M
+9123400022                118
+
+2.3118E+10 Badal kumar                                        09-APR-05 M
+9123400033                118
+
+
+STUDENT_ID NAME                                               DATE_OF_B G
+---------- -------------------------------------------------- --------- -
+CONTACT_NUMBER  DEPARTMENT_ID
+--------------- -------------
+2.3118E+10 Akash Kumar                                        19-SEP-03 M
+9123400044                118
+
+2.3118E+10 Sushil sagar                                       19-SEP-01 M
+9123400567                118
+
+2.3118E+10 Vivek kumar                                        01-DEC-03 M
+9123400066                118
+
+
+STUDENT_ID NAME                                               DATE_OF_B G
+---------- -------------------------------------------------- --------- -
+CONTACT_NUMBER  DEPARTMENT_ID
+--------------- -------------
+2.3118E+10 Neha kuamri                                        22-MAY-04 F
+9123434977                118
+
+2.3118E+10 Shweta kumari                                      30-AUG-03 F
+9123400088                118
+
+2.3118E+10 Abhishek kumar                                     10-APR-04 M
+9123400099                118
+
+
+STUDENT_ID NAME                                               DATE_OF_B G
+---------- -------------------------------------------------- --------- -
+CONTACT_NUMBER  DEPARTMENT_ID
+--------------- -------------
+2.3110E+10 Himanshu Bhaskar                                   18-SEP-03 M
+9128475601                110
+
+2.3110E+10 Prem kishor                                        11-DEC-03 M
+9236584712                110
+
+2.3110E+10 Priti Kumari                                       06-APR-04 F
+9347695823                110
+
+
+STUDENT_ID NAME                                               DATE_OF_B G
+---------- -------------------------------------------------- --------- -
+CONTACT_NUMBER  DEPARTMENT_ID
+--------------- -------------
+2.3110E+10 Anamika kumari                                     14-JUN-04 F
+9347695845                110
+
+2.3110E+10 Nitish Kumar                                       14-JAN-04 M
+9569817045                110
+
+2.3110E+10 Sonam Priya                                        19-JUN-04 F
+9670928156                110
+
+
+STUDENT_ID NAME                                               DATE_OF_B G
+---------- -------------------------------------------------- --------- -
+CONTACT_NUMBER  DEPARTMENT_ID
+--------------- -------------
+2.3110E+10 Raja kumar sahni                                   03-OCT-03 M
+9781039267                110
+
+2.3110E+10 Piyush raj                                         28-AUG-03 M
+9892140378                110
+
+2.3110E+10 Nitu Kumari                                        22-FEB-04 F
+9013251489                110
+
+
+STUDENT_ID NAME                                               DATE_OF_B G
+---------- -------------------------------------------------- --------- -
+CONTACT_NUMBER  DEPARTMENT_ID
+--------------- -------------
+2.3110E+10 Gajadhar kumar                                     30-NOV-03 M
+9124362590                110
+
+2.3102E+10 Ashish srivastava                                  14-FEB-04 M
+9123456781                102
+
+2.3102E+10 Nidhi choubey                                      08-NOV-03 F
+9234567812                102
+
+
+STUDENT_ID NAME                                               DATE_OF_B G
+---------- -------------------------------------------------- --------- -
+CONTACT_NUMBER  DEPARTMENT_ID
+--------------- -------------
+2.3102E+10 Piyush Kumar                                       19-JUN-04 M
+9345678123                102
+
+2.3102E+10 Arun kumar                                         27-SEP-03 M
+9456781234                102
+
+2.3102E+10 Ritika Kumari                                      10-JAN-04 F
+9567812345                102
+
+
+STUDENT_ID NAME                                               DATE_OF_B G
+---------- -------------------------------------------------- --------- -
+CONTACT_NUMBER  DEPARTMENT_ID
+--------------- -------------
+2.3102E+10 Rahul Kumar Yadav                                  05-DEC-03 M
+9678123456                102
+
+2.3102E+10 Ankit Kumar                                        22-APR-04 M
+9781234567                102
+
+2.3102E+10 Rohit raj                                          16-AUG-03 M
+9892345678                102
+
+
+STUDENT_ID NAME                                               DATE_OF_B G
+---------- -------------------------------------------------- --------- -
+CONTACT_NUMBER  DEPARTMENT_ID
+--------------- -------------
+2.3102E+10 Manish Kumar                                       30-MAY-04 M
+9012345679                102
+
+2.3102E+10 Sanni Kumar                                        11-OCT-03 M
+9123987654                102
+
+2.3101E+10 Avinash kumar yadav                                12-MAY-04 M
+8347265910                101
+
+
+STUDENT_ID NAME                                               DATE_OF_B G
+---------- -------------------------------------------------- --------- -
+CONTACT_NUMBER  DEPARTMENT_ID
+--------------- -------------
+2.3101E+10 Archana gupta                                      20-AUG-04 F
+9124587036                101
+
+2.3101E+10 Nitish kumar singh                                 15-NOV-03 M
+7894512638                101
+
+2.3101E+10 Bhaskar kumar                                      10-SEP-03 M
+9685021473                101
+
+
+STUDENT_ID NAME                                               DATE_OF_B G
+---------- -------------------------------------------------- --------- -
+CONTACT_NUMBER  DEPARTMENT_ID
+--------------- -------------
+2.3101E+10 Harshit mishra                                     18-JAN-04 M
+7458961230                101
+
+2.3101E+10 Deepak kumar                                       25-DEC-02 M
+8932147506                101
+
+2.3101E+10 Rajnish kumar                                      05-JUL-03 M
+7019458236                101
+
+
+STUDENT_ID NAME                                               DATE_OF_B G
+---------- -------------------------------------------------- --------- -
+CONTACT_NUMBER  DEPARTMENT_ID
+--------------- -------------
+2.3101E+10 Ashish Kumar                                       22-MAR-04 M
+8563209741                101
+
+2.3101E+10 Monu  Kumar                                        30-OCT-03 M
+9326087451                101
+
+2.3101E+10 Ekbal ahmed                                        14-JUN-04 M
+7815942603                101
+
